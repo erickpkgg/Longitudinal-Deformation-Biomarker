@@ -1,2 +1,3 @@
-# Longitudinal-Deformation-Biomarker
-This repository implements a fully reproducible pipeline to quantify longitudinal brain atrophy from structural MRI using deformation fields. The workflow builds adjacent-visit registrations, aggregates log-Jacobian maps into atlas-level features, applies CN-anchored site normalization, and derives a compact global index (IDE_global). It includes QC, cross-cohort analyses, ordinal consistency along clinical axes, and clinical utility metrics (AUC/Youden). While demonstrated on neurodegenerative cohorts, the approach is dataset-agnostic for any longitudinal, preprocessed T1 data.
+# MICAD — Pipeline Stages A–F
+Cartografía longitudinal de atrofia cerebral con campos de deformación y métricas clínicas.
+Ver `config/config_example.json` para rutas y `environment.yml` para dependencias.

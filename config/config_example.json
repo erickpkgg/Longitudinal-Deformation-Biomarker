@@ -1,0 +1,14 @@
+{
+  "atlas": {
+    "brain_mask": "E:/atlases/MNI152_brain_mask_1mm.nii.gz",
+    "harvardoxford": "E:/atlases/HarvardOxford-cort+subcort-MNI152-1mm.nii.gz",
+    "harvardoxford_labels": "E:/atlases/HarvardOxford_labels.csv"
+  },
+  "inputs": {
+    "master": "E:/MetadataSITE.xlsx",
+    "jobs": "E:/MICAD_derivatives/jobs_adjacent_registration.csv",
+    "roi_csv": "E:/MICAD_derivatives/roi_agg_pairs.csv",
+    "composites": "E:/MICAD_derivatives/composite_scores_clean.csv"
+  },
+  "outputs_root": "E:/MICAD_derivatives"
+}

@@ -1,0 +1,51 @@
+{
+  "repo_root": "C:\\Users\\erick\\MICAD_pipeline_repo",
+  "deriv_root": "E:\\MICAD_derivatives",
+  "whitelist_exact": [
+    "table1_composites_compact.tex",
+    "tables_roi/table_top5_AD_vs_CN.tex",
+    "tables_roi/table_top5_MCI_vs_CN.tex",
+    "tables_roi/table_top5_PD_vs_CN.tex",
+    "tables_roi/table_top5_PPD_vs_CN.tex",
+    "figs_basic/fig_box_IDE_by_DX.png",
+    "figs_basic/fig_box_CN_IDE_by_site_mismatch.png",
+    "figs_micro/density_AD_vs_CN_subjects.png",
+    "figs_micro/density_MCI_vs_CN_subjects.png",
+    "figs_micro/density_PD_vs_CN_subjects.png",
+    "figs_micro/density_PPD_vs_CN_subjects.png",
+    "stageF_refine/auc_pairs.csv",
+    "stageF_refine/auc_subjects.csv",
+    "stageF_refine/youdens_pairs.csv",
+    "stageF_refine/youdens_subjects.csv",
+    "stageF_biomarker/ordinal_trend.csv",
+    "stageF_biomarker/ordinal_cindex.csv",
+    "stageF_biomarker/ovr_auc.csv",
+    "thresholds_youden.csv",
+    "auc_overall.csv"
+  ],
+  "included": [
+    "MICAD_pipeline_repo\\artifacts_release\\figs_micro\\density_AD_vs_CN_subjects.png",
+    "MICAD_pipeline_repo\\artifacts_release\\figs_micro\\density_MCI_vs_CN_subjects.png",
+    "MICAD_pipeline_repo\\artifacts_release\\figs_micro\\density_PD_vs_CN_subjects.png",
+    "MICAD_pipeline_repo\\artifacts_release\\figs_micro\\density_PPD_vs_CN_subjects.png",
+    "MICAD_pipeline_repo\\artifacts_release\\stageF_refine\\auc_pairs.csv",
+    "MICAD_pipeline_repo\\artifacts_release\\stageF_refine\\auc_subjects.csv",
+    "MICAD_pipeline_repo\\artifacts_release\\stageF_refine\\youdens_pairs.csv",
+    "MICAD_pipeline_repo\\artifacts_release\\stageF_refine\\youdens_subjects.csv",
+    "MICAD_pipeline_repo\\artifacts_release\\stageF_biomarker\\ordinal_trend.csv",
+    "MICAD_pipeline_repo\\artifacts_release\\stageF_biomarker\\ordinal_cindex.csv",
+    "MICAD_pipeline_repo\\artifacts_release\\stageF_biomarker\\ovr_auc.csv"
+  ],
+  "missing": [
+    "table1_composites_compact.tex",
+    "tables_roi/table_top5_AD_vs_CN.tex",
+    "tables_roi/table_top5_MCI_vs_CN.tex",
+    "tables_roi/table_top5_PD_vs_CN.tex",
+    "tables_roi/table_top5_PPD_vs_CN.tex",
+    "figs_basic/fig_box_IDE_by_DX.png",
+    "figs_basic/fig_box_CN_IDE_by_site_mismatch.png",
+    "thresholds_youden.csv",
+    "auc_overall.csv"
+  ],
+  "timestamp": "2025-09-19T16:26:14.891191"
+}
